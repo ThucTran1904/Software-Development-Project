@@ -42,7 +42,7 @@ the GUI uses `tkinter`, which ships with Python. There is no
 
 ### CLIUniApp
 
-From inside `group10-Cmp15/CLIUniApp/`:
+From inside `CLIUniApp/`:
 
 ```
 python main.py
@@ -56,7 +56,7 @@ py -3 main.py
 
 ### GUIUniApp
 
-From inside `group10-Cmp15/GUIUniApp/`:
+From inside `GUIUniApp/`:
 
 ```
 python gui_main.py
